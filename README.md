@@ -33,8 +33,8 @@ To analyze Swiggy sales data and identify useful business insights through an in
 ![Swiggy Sales Dashboard](Swiggy_Dashboard.png)
 
 ## 📁 Project Files
-- `Swiggy_5000_Rows_Dashboard_Data.xlsx` — Excel workbook containing the project data and dashboard.
-- `Swiggy_Dashboard.png` — Dashboard screenshot.
 
+- 📊 [Download Excel Dashboard & Data](Swiggy_5000_Rows_Dashboard_Data.xlsx)
+- 🖼️ [View Dashboard Screenshot](Swiggy_Dashboard.png)
 ## 👩‍💻 Author
 **Akanksha Mohitkar**
